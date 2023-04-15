@@ -1,0 +1,14 @@
+
+section{
+    background:#ccc ;
+    width: 600px;
+}
+img {
+    height: 170px;
+    width: 200px;
+    border-radius: 60%;
+}
+div{
+    background:#FAFAD2;
+    width: 600px;
+}
